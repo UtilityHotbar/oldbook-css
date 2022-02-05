@@ -14,7 +14,7 @@ body {
 h1 {
 	font-family: "IM Fell DW Pica SC", serif;
 	color: #8b0000;
-	font-size: 4rem;
+	font-size: 3.5rem;
 	margin: auto;
 	text-align: center;
 	font-weight: normal;
@@ -25,26 +25,20 @@ h2 {
 	font-family: "IM Fell DW Pica SC", serif;
 	font-weight: normal;
 	color: #8b0000;
-	font-size: 3.5rem;
-	border-bottom: 3px solid #8b0000
+	font-size: 3rem;
+	border-bottom: 3px solid #8b0000;
+	margin-bottom: 0px;
 }
 
 h3 {
 	font-family: "IM Fell DW Pica SC", serif;
 	font-weight: normal;
-	font-size: 3rem;
+	font-size: 2.5rem;
 	color: #8b0000;
+	margin-bottom: 10px;
 }
 
 h4 {
-	font-family: "IM Fell DW Pica", serif;
-	font-weight: normal;
-	font-style: italic;
-	font-size: 2.5rem;
-	color: #8b0000;
-}
-
-h5 {
 	font-family: "IM Fell DW Pica", serif;
 	font-weight: normal;
 	font-style: italic;
@@ -52,11 +46,19 @@ h5 {
 	color: #8b0000;
 }
 
-h6 {
+h5 {
 	font-family: "IM Fell DW Pica", serif;
 	font-weight: normal;
 	font-style: italic;
 	font-size: 1.5rem;
+	color: #8b0000;
+}
+
+h6 {
+	font-family: "IM Fell DW Pica", serif;
+	font-weight: normal;
+	font-style: italic;
+	font-size: 1.35rem;
 	color: #8b0000;
 }
 
